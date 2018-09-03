@@ -5,7 +5,7 @@
 - database username : root
 - database password : ''
 - hostname          : localhost
--sql file           : myexamblog.slq // import under database name: myexamblog
+- sql file           : myexamblog.slq // import under database name: myexamblog
 
 # pages - public pages
 + index page    - localhost/myexamblog/ // set as home
