@@ -1,6 +1,8 @@
 #Developer
 
-# myexamblog - cakePHP exam blog - Ian Christopher Pulan
+# myexamblog - cakePHP exam blog
++ Author:Ian Christopher
+
 - database name     : myexamblog
 - database username : root
 - database password : ''
