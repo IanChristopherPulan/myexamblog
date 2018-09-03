@@ -16,6 +16,7 @@
 + admin-login page  - localhost/myexamblog/users/login // ex.user&pass user = index123 | pass = index123
   # if you need to add user, I created a view for this purpose only, you can delete it after creating your own user
     - add-user page - localhost/myexamblog/users/add-user
++ logout - localhost/localhost/myexamblog/users/logout - Can only be accessed by inputting the URL
 
 # admin pages - required login
 + admin-list page - localhost/myexamblog/posts/admin-list
